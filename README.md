@@ -1,6 +1,3 @@
-#Basic Maze Solver#
+#Maze Solver
 
-##Pathfinding algorithms added:##
-
-1. DFS
-2. 
+Generates a random maze and solves it using the DFS algorithm
